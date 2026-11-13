@@ -9,6 +9,12 @@
 
 目录：twin_market_flow 保存业务处理与存储模块；tests/journey_attribution 保存业务回归；fixtures/demo.json 为原有业务样例，fixtures/analysis 为经营分析资料及字段说明。
 
+经营分析命令（联营券实验）：
+python3 -m twin_market_flow.experiment_analysis --input fixtures/analysis/input.json --database /tmp/twin_market_flow-analysis.sqlite3 --output /tmp/twin_market_flow-analysis.json
+回归：python3 -m unittest discover -s tests/experiment_analysis -v
+分析输出 analysis_id、population（assigned、excluded、contaminated）、effects（metric、estimate、interval、status、unit）、checks 与 sources；
+以 as_of 还原当时可知的身份与交易，主分析按原始家庭随机分配做意向处理，未曝光家庭仍在分母内。
+
 原有验收命令每次使用新的 SQLite 路径，避免复用上次状态。新增输入完整性检查：
 python3 -m unittest discover -s tests/analysis_inputs -v
 
