@@ -1,0 +1,3792 @@
+{
+  "seed": 41,
+  "experiment_id": "joint-coupon",
+  "as_of": "2026-07-25",
+  "observation_start": "2026-06-30",
+  "observation_end": "2026-07-20",
+  "assignments": [
+    {
+      "household_id": "h000",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h001",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h002",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h003",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h004",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h005",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h006",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h007",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h008",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h009",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h010",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h011",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h012",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h013",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h014",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h015",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h016",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h017",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h018",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h019",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h020",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h021",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h022",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h023",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h024",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h025",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h026",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h027",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h028",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h029",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h030",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h031",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h032",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h033",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h034",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h035",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h036",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h037",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h038",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h039",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h040",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h041",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h042",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h043",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h044",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h045",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h046",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h047",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h048",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h049",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h050",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h051",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h052",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h053",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h054",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h055",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h056",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h057",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h058",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h059",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h060",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h061",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h062",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h063",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h064",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h065",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h066",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h067",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h068",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h069",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h070",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h071",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h072",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h073",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h074",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h075",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h076",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h077",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h078",
+      "arm": "control",
+      "assigned_at": "2026-06-30"
+    },
+    {
+      "household_id": "h079",
+      "arm": "treatment",
+      "assigned_at": "2026-06-30"
+    }
+  ],
+  "identities": [
+    {
+      "link_id": "l0",
+      "device_id": "d0",
+      "household_id": "h000",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l1",
+      "device_id": "d1",
+      "household_id": "h000",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l2",
+      "device_id": "d2",
+      "household_id": "h001",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l3",
+      "device_id": "d3",
+      "household_id": "h001",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l4",
+      "device_id": "d4",
+      "household_id": "h002",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l5",
+      "device_id": "d5",
+      "household_id": "h002",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l6",
+      "device_id": "d6",
+      "household_id": "h003",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l7",
+      "device_id": "d7",
+      "household_id": "h003",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l8",
+      "device_id": "d8",
+      "household_id": "h004",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l9",
+      "device_id": "d9",
+      "household_id": "h004",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l10",
+      "device_id": "d10",
+      "household_id": "h005",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l11",
+      "device_id": "d11",
+      "household_id": "h005",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l12",
+      "device_id": "d12",
+      "household_id": "h006",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l13",
+      "device_id": "d13",
+      "household_id": "h006",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l14",
+      "device_id": "d14",
+      "household_id": "h007",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l15",
+      "device_id": "d15",
+      "household_id": "h007",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l16",
+      "device_id": "d16",
+      "household_id": "h008",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l17",
+      "device_id": "d17",
+      "household_id": "h008",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l18",
+      "device_id": "d18",
+      "household_id": "h009",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l19",
+      "device_id": "d19",
+      "household_id": "h009",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l20",
+      "device_id": "d20",
+      "household_id": "h010",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l21",
+      "device_id": "d21",
+      "household_id": "h010",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l22",
+      "device_id": "d22",
+      "household_id": "h011",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l23",
+      "device_id": "d23",
+      "household_id": "h011",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l24",
+      "device_id": "d24",
+      "household_id": "h012",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l25",
+      "device_id": "d25",
+      "household_id": "h012",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l26",
+      "device_id": "d26",
+      "household_id": "h013",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l27",
+      "device_id": "d27",
+      "household_id": "h013",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l28",
+      "device_id": "d28",
+      "household_id": "h014",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l29",
+      "device_id": "d29",
+      "household_id": "h014",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l30",
+      "device_id": "d30",
+      "household_id": "h015",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l31",
+      "device_id": "d31",
+      "household_id": "h015",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l32",
+      "device_id": "d32",
+      "household_id": "h016",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l33",
+      "device_id": "d33",
+      "household_id": "h016",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l34",
+      "device_id": "d34",
+      "household_id": "h017",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l35",
+      "device_id": "d35",
+      "household_id": "h017",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l36",
+      "device_id": "d36",
+      "household_id": "h018",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l37",
+      "device_id": "d37",
+      "household_id": "h018",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l38",
+      "device_id": "d38",
+      "household_id": "h019",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l39",
+      "device_id": "d39",
+      "household_id": "h019",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l40",
+      "device_id": "d40",
+      "household_id": "h020",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l41",
+      "device_id": "d41",
+      "household_id": "h020",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l42",
+      "device_id": "d42",
+      "household_id": "h021",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l43",
+      "device_id": "d43",
+      "household_id": "h021",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l44",
+      "device_id": "d44",
+      "household_id": "h022",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l45",
+      "device_id": "d45",
+      "household_id": "h022",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l46",
+      "device_id": "d46",
+      "household_id": "h023",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l47",
+      "device_id": "d47",
+      "household_id": "h023",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l48",
+      "device_id": "d48",
+      "household_id": "h024",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l49",
+      "device_id": "d49",
+      "household_id": "h024",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l50",
+      "device_id": "d50",
+      "household_id": "h025",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l51",
+      "device_id": "d51",
+      "household_id": "h025",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l52",
+      "device_id": "d52",
+      "household_id": "h026",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l53",
+      "device_id": "d53",
+      "household_id": "h026",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l54",
+      "device_id": "d54",
+      "household_id": "h027",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l55",
+      "device_id": "d55",
+      "household_id": "h027",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l56",
+      "device_id": "d56",
+      "household_id": "h028",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l57",
+      "device_id": "d57",
+      "household_id": "h028",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l58",
+      "device_id": "d58",
+      "household_id": "h029",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l59",
+      "device_id": "d59",
+      "household_id": "h029",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l60",
+      "device_id": "d60",
+      "household_id": "h030",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l61",
+      "device_id": "d61",
+      "household_id": "h030",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l62",
+      "device_id": "d62",
+      "household_id": "h031",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l63",
+      "device_id": "d63",
+      "household_id": "h031",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l64",
+      "device_id": "d64",
+      "household_id": "h032",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l65",
+      "device_id": "d65",
+      "household_id": "h032",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l66",
+      "device_id": "d66",
+      "household_id": "h033",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l67",
+      "device_id": "d67",
+      "household_id": "h033",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l68",
+      "device_id": "d68",
+      "household_id": "h034",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l69",
+      "device_id": "d69",
+      "household_id": "h034",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l70",
+      "device_id": "d70",
+      "household_id": "h035",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l71",
+      "device_id": "d71",
+      "household_id": "h035",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l72",
+      "device_id": "d72",
+      "household_id": "h036",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l73",
+      "device_id": "d73",
+      "household_id": "h036",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l74",
+      "device_id": "d74",
+      "household_id": "h037",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l75",
+      "device_id": "d75",
+      "household_id": "h037",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l76",
+      "device_id": "d76",
+      "household_id": "h038",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l77",
+      "device_id": "d77",
+      "household_id": "h038",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l78",
+      "device_id": "d78",
+      "household_id": "h039",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l79",
+      "device_id": "d79",
+      "household_id": "h039",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l80",
+      "device_id": "d80",
+      "household_id": "h040",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l81",
+      "device_id": "d81",
+      "household_id": "h040",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l82",
+      "device_id": "d82",
+      "household_id": "h041",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l83",
+      "device_id": "d83",
+      "household_id": "h041",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l84",
+      "device_id": "d84",
+      "household_id": "h042",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l85",
+      "device_id": "d85",
+      "household_id": "h042",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l86",
+      "device_id": "d86",
+      "household_id": "h043",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l87",
+      "device_id": "d87",
+      "household_id": "h043",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l88",
+      "device_id": "d88",
+      "household_id": "h044",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l89",
+      "device_id": "d89",
+      "household_id": "h044",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l90",
+      "device_id": "d90",
+      "household_id": "h045",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l91",
+      "device_id": "d91",
+      "household_id": "h045",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l92",
+      "device_id": "d92",
+      "household_id": "h046",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l93",
+      "device_id": "d93",
+      "household_id": "h046",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l94",
+      "device_id": "d94",
+      "household_id": "h047",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l95",
+      "device_id": "d95",
+      "household_id": "h047",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l96",
+      "device_id": "d96",
+      "household_id": "h048",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l97",
+      "device_id": "d97",
+      "household_id": "h048",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l98",
+      "device_id": "d98",
+      "household_id": "h049",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l99",
+      "device_id": "d99",
+      "household_id": "h049",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l100",
+      "device_id": "d100",
+      "household_id": "h050",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l101",
+      "device_id": "d101",
+      "household_id": "h050",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l102",
+      "device_id": "d102",
+      "household_id": "h051",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l103",
+      "device_id": "d103",
+      "household_id": "h051",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l104",
+      "device_id": "d104",
+      "household_id": "h052",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l105",
+      "device_id": "d105",
+      "household_id": "h052",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l106",
+      "device_id": "d106",
+      "household_id": "h053",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l107",
+      "device_id": "d107",
+      "household_id": "h053",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l108",
+      "device_id": "d108",
+      "household_id": "h054",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l109",
+      "device_id": "d109",
+      "household_id": "h054",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l110",
+      "device_id": "d110",
+      "household_id": "h055",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l111",
+      "device_id": "d111",
+      "household_id": "h055",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l112",
+      "device_id": "d112",
+      "household_id": "h056",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l113",
+      "device_id": "d113",
+      "household_id": "h056",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l114",
+      "device_id": "d114",
+      "household_id": "h057",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l115",
+      "device_id": "d115",
+      "household_id": "h057",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l116",
+      "device_id": "d116",
+      "household_id": "h058",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l117",
+      "device_id": "d117",
+      "household_id": "h058",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l118",
+      "device_id": "d118",
+      "household_id": "h059",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l119",
+      "device_id": "d119",
+      "household_id": "h059",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l120",
+      "device_id": "d120",
+      "household_id": "h060",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l121",
+      "device_id": "d121",
+      "household_id": "h060",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l122",
+      "device_id": "d122",
+      "household_id": "h061",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l123",
+      "device_id": "d123",
+      "household_id": "h061",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l124",
+      "device_id": "d124",
+      "household_id": "h062",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l125",
+      "device_id": "d125",
+      "household_id": "h062",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l126",
+      "device_id": "d126",
+      "household_id": "h063",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l127",
+      "device_id": "d127",
+      "household_id": "h063",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l128",
+      "device_id": "d128",
+      "household_id": "h064",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l129",
+      "device_id": "d129",
+      "household_id": "h064",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l130",
+      "device_id": "d130",
+      "household_id": "h065",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l131",
+      "device_id": "d131",
+      "household_id": "h065",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l132",
+      "device_id": "d132",
+      "household_id": "h066",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l133",
+      "device_id": "d133",
+      "household_id": "h066",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l134",
+      "device_id": "d134",
+      "household_id": "h067",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l135",
+      "device_id": "d135",
+      "household_id": "h067",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l136",
+      "device_id": "d136",
+      "household_id": "h068",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l137",
+      "device_id": "d137",
+      "household_id": "h068",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l138",
+      "device_id": "d138",
+      "household_id": "h069",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l139",
+      "device_id": "d139",
+      "household_id": "h069",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l140",
+      "device_id": "d140",
+      "household_id": "h070",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l141",
+      "device_id": "d141",
+      "household_id": "h070",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l142",
+      "device_id": "d142",
+      "household_id": "h071",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l143",
+      "device_id": "d143",
+      "household_id": "h071",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l144",
+      "device_id": "d144",
+      "household_id": "h072",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l145",
+      "device_id": "d145",
+      "household_id": "h072",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l146",
+      "device_id": "d146",
+      "household_id": "h073",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l147",
+      "device_id": "d147",
+      "household_id": "h073",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l148",
+      "device_id": "d148",
+      "household_id": "h074",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l149",
+      "device_id": "d149",
+      "household_id": "h074",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l150",
+      "device_id": "d150",
+      "household_id": "h075",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l151",
+      "device_id": "d151",
+      "household_id": "h075",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l152",
+      "device_id": "d152",
+      "household_id": "h076",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l153",
+      "device_id": "d153",
+      "household_id": "h076",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l154",
+      "device_id": "d154",
+      "household_id": "h077",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l155",
+      "device_id": "d155",
+      "household_id": "h077",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l156",
+      "device_id": "d156",
+      "household_id": "h078",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l157",
+      "device_id": "d157",
+      "household_id": "h078",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l158",
+      "device_id": "d158",
+      "household_id": "h079",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    },
+    {
+      "link_id": "l159",
+      "device_id": "d159",
+      "household_id": "h079",
+      "effective_at": "2026-06-20",
+      "known_at": "2026-06-21",
+      "revision": 1,
+      "revoked": false
+    }
+  ],
+  "events": [
+    {
+      "event_id": "e0",
+      "revision": 1,
+      "household_id": "h000",
+      "device_id": "d0",
+      "type": "order",
+      "order_id": "o0",
+      "market": "textile",
+      "amount": 71.75,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e1",
+      "revision": 1,
+      "household_id": "h000",
+      "device_id": "d1",
+      "type": "order",
+      "order_id": "o1",
+      "market": "leather",
+      "amount": 125.74,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e2",
+      "revision": 1,
+      "household_id": "h001",
+      "device_id": "d2",
+      "type": "order",
+      "order_id": "o2",
+      "market": "textile",
+      "amount": 113.01,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e3",
+      "revision": 1,
+      "household_id": "h001",
+      "device_id": "d3",
+      "type": "order",
+      "order_id": "o3",
+      "market": "leather",
+      "amount": 82.59,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e4",
+      "revision": 1,
+      "household_id": "h002",
+      "device_id": "d4",
+      "type": "order",
+      "order_id": "o4",
+      "market": "textile",
+      "amount": 88.05,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e5",
+      "revision": 1,
+      "household_id": "h002",
+      "device_id": "d5",
+      "type": "order",
+      "order_id": "o5",
+      "market": "leather",
+      "amount": 50.61,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e6",
+      "revision": 1,
+      "household_id": "h003",
+      "device_id": "d6",
+      "type": "order",
+      "order_id": "o6",
+      "market": "textile",
+      "amount": 98.03,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e7",
+      "revision": 1,
+      "household_id": "h003",
+      "device_id": "d7",
+      "type": "order",
+      "order_id": "o7",
+      "market": "leather",
+      "amount": 125.66,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e8",
+      "revision": 1,
+      "household_id": "h004",
+      "device_id": "d8",
+      "type": "order",
+      "order_id": "o8",
+      "market": "textile",
+      "amount": 105.27,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e9",
+      "revision": 1,
+      "household_id": "h004",
+      "device_id": "d9",
+      "type": "order",
+      "order_id": "o9",
+      "market": "leather",
+      "amount": 96.03,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e10",
+      "revision": 1,
+      "household_id": "h005",
+      "device_id": "d10",
+      "type": "order",
+      "order_id": "o10",
+      "market": "textile",
+      "amount": 76.12,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e11",
+      "revision": 1,
+      "household_id": "h005",
+      "device_id": "d11",
+      "type": "order",
+      "order_id": "o11",
+      "market": "leather",
+      "amount": 20.71,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e12",
+      "revision": 1,
+      "household_id": "h006",
+      "device_id": "d12",
+      "type": "order",
+      "order_id": "o12",
+      "market": "textile",
+      "amount": 115.87,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e13",
+      "revision": 1,
+      "household_id": "h006",
+      "device_id": "d13",
+      "type": "order",
+      "order_id": "o13",
+      "market": "leather",
+      "amount": 144.62,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e14",
+      "revision": 1,
+      "household_id": "h007",
+      "device_id": "d14",
+      "type": "order",
+      "order_id": "o14",
+      "market": "textile",
+      "amount": 23.11,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e15",
+      "revision": 1,
+      "household_id": "h007",
+      "device_id": "d15",
+      "type": "order",
+      "order_id": "o15",
+      "market": "leather",
+      "amount": 53.83,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e16",
+      "revision": 1,
+      "household_id": "h008",
+      "device_id": "d16",
+      "type": "order",
+      "order_id": "o16",
+      "market": "textile",
+      "amount": 58.84,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e17",
+      "revision": 1,
+      "household_id": "h008",
+      "device_id": "d17",
+      "type": "order",
+      "order_id": "o17",
+      "market": "leather",
+      "amount": 66.78,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e18",
+      "revision": 1,
+      "household_id": "h009",
+      "device_id": "d18",
+      "type": "order",
+      "order_id": "o18",
+      "market": "textile",
+      "amount": 133.63,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e19",
+      "revision": 1,
+      "household_id": "h009",
+      "device_id": "d19",
+      "type": "order",
+      "order_id": "o19",
+      "market": "leather",
+      "amount": 92.41,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e20",
+      "revision": 1,
+      "household_id": "h010",
+      "device_id": "d20",
+      "type": "order",
+      "order_id": "o20",
+      "market": "textile",
+      "amount": 58.89,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e21",
+      "revision": 1,
+      "household_id": "h010",
+      "device_id": "d21",
+      "type": "order",
+      "order_id": "o21",
+      "market": "leather",
+      "amount": 64.53,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e22",
+      "revision": 1,
+      "household_id": "h011",
+      "device_id": "d22",
+      "type": "order",
+      "order_id": "o22",
+      "market": "textile",
+      "amount": 105.71,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e23",
+      "revision": 1,
+      "household_id": "h011",
+      "device_id": "d23",
+      "type": "order",
+      "order_id": "o23",
+      "market": "leather",
+      "amount": 26.71,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e24",
+      "revision": 1,
+      "household_id": "h012",
+      "device_id": "d24",
+      "type": "order",
+      "order_id": "o24",
+      "market": "textile",
+      "amount": 51.33,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e25",
+      "revision": 1,
+      "household_id": "h012",
+      "device_id": "d25",
+      "type": "order",
+      "order_id": "o25",
+      "market": "leather",
+      "amount": 47.58,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e26",
+      "revision": 1,
+      "household_id": "h013",
+      "device_id": "d26",
+      "type": "order",
+      "order_id": "o26",
+      "market": "textile",
+      "amount": 59.89,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e27",
+      "revision": 1,
+      "household_id": "h013",
+      "device_id": "d27",
+      "type": "order",
+      "order_id": "o27",
+      "market": "leather",
+      "amount": 135.69,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e28",
+      "revision": 1,
+      "household_id": "h014",
+      "device_id": "d28",
+      "type": "order",
+      "order_id": "o28",
+      "market": "textile",
+      "amount": 33.09,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e29",
+      "revision": 1,
+      "household_id": "h014",
+      "device_id": "d29",
+      "type": "order",
+      "order_id": "o29",
+      "market": "leather",
+      "amount": 86.48,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e30",
+      "revision": 1,
+      "household_id": "h015",
+      "device_id": "d30",
+      "type": "order",
+      "order_id": "o30",
+      "market": "textile",
+      "amount": 92.03,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e31",
+      "revision": 1,
+      "household_id": "h015",
+      "device_id": "d31",
+      "type": "order",
+      "order_id": "o31",
+      "market": "leather",
+      "amount": 35.73,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e32",
+      "revision": 1,
+      "household_id": "h016",
+      "device_id": "d32",
+      "type": "order",
+      "order_id": "o32",
+      "market": "textile",
+      "amount": 61.9,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e33",
+      "revision": 1,
+      "household_id": "h016",
+      "device_id": "d33",
+      "type": "order",
+      "order_id": "o33",
+      "market": "leather",
+      "amount": 49.18,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e34",
+      "revision": 1,
+      "household_id": "h017",
+      "device_id": "d34",
+      "type": "order",
+      "order_id": "o34",
+      "market": "textile",
+      "amount": 77.61,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e35",
+      "revision": 1,
+      "household_id": "h017",
+      "device_id": "d35",
+      "type": "order",
+      "order_id": "o35",
+      "market": "leather",
+      "amount": 94.59,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e36",
+      "revision": 1,
+      "household_id": "h018",
+      "device_id": "d36",
+      "type": "order",
+      "order_id": "o36",
+      "market": "textile",
+      "amount": 32.01,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e37",
+      "revision": 1,
+      "household_id": "h018",
+      "device_id": "d37",
+      "type": "order",
+      "order_id": "o37",
+      "market": "leather",
+      "amount": 90.2,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e38",
+      "revision": 1,
+      "household_id": "h019",
+      "device_id": "d38",
+      "type": "order",
+      "order_id": "o38",
+      "market": "textile",
+      "amount": 89.14,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e39",
+      "revision": 1,
+      "household_id": "h019",
+      "device_id": "d39",
+      "type": "order",
+      "order_id": "o39",
+      "market": "leather",
+      "amount": 43.61,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e40",
+      "revision": 1,
+      "household_id": "h020",
+      "device_id": "d40",
+      "type": "order",
+      "order_id": "o40",
+      "market": "textile",
+      "amount": 38.59,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e41",
+      "revision": 1,
+      "household_id": "h020",
+      "device_id": "d41",
+      "type": "order",
+      "order_id": "o41",
+      "market": "leather",
+      "amount": 37.23,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e42",
+      "revision": 1,
+      "household_id": "h021",
+      "device_id": "d42",
+      "type": "order",
+      "order_id": "o42",
+      "market": "textile",
+      "amount": 90.57,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e43",
+      "revision": 1,
+      "household_id": "h021",
+      "device_id": "d43",
+      "type": "order",
+      "order_id": "o43",
+      "market": "leather",
+      "amount": 113.31,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e44",
+      "revision": 1,
+      "household_id": "h022",
+      "device_id": "d44",
+      "type": "order",
+      "order_id": "o44",
+      "market": "textile",
+      "amount": 135.24,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e45",
+      "revision": 1,
+      "household_id": "h022",
+      "device_id": "d45",
+      "type": "order",
+      "order_id": "o45",
+      "market": "leather",
+      "amount": 101.46,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e46",
+      "revision": 1,
+      "household_id": "h023",
+      "device_id": "d46",
+      "type": "order",
+      "order_id": "o46",
+      "market": "textile",
+      "amount": 72.56,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e47",
+      "revision": 1,
+      "household_id": "h023",
+      "device_id": "d47",
+      "type": "order",
+      "order_id": "o47",
+      "market": "leather",
+      "amount": 31.42,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e48",
+      "revision": 1,
+      "household_id": "h024",
+      "device_id": "d48",
+      "type": "order",
+      "order_id": "o48",
+      "market": "textile",
+      "amount": 60.79,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e49",
+      "revision": 1,
+      "household_id": "h024",
+      "device_id": "d49",
+      "type": "order",
+      "order_id": "o49",
+      "market": "leather",
+      "amount": 83.73,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e50",
+      "revision": 1,
+      "household_id": "h025",
+      "device_id": "d50",
+      "type": "order",
+      "order_id": "o50",
+      "market": "textile",
+      "amount": 27.24,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e51",
+      "revision": 1,
+      "household_id": "h025",
+      "device_id": "d51",
+      "type": "order",
+      "order_id": "o51",
+      "market": "leather",
+      "amount": 104.51,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e52",
+      "revision": 1,
+      "household_id": "h026",
+      "device_id": "d52",
+      "type": "order",
+      "order_id": "o52",
+      "market": "textile",
+      "amount": 94.21,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e53",
+      "revision": 1,
+      "household_id": "h026",
+      "device_id": "d53",
+      "type": "order",
+      "order_id": "o53",
+      "market": "leather",
+      "amount": 30.66,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e54",
+      "revision": 1,
+      "household_id": "h027",
+      "device_id": "d54",
+      "type": "order",
+      "order_id": "o54",
+      "market": "textile",
+      "amount": 46.18,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e55",
+      "revision": 1,
+      "household_id": "h027",
+      "device_id": "d55",
+      "type": "order",
+      "order_id": "o55",
+      "market": "leather",
+      "amount": 148.52,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e56",
+      "revision": 1,
+      "household_id": "h028",
+      "device_id": "d56",
+      "type": "order",
+      "order_id": "o56",
+      "market": "textile",
+      "amount": 122.58,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e57",
+      "revision": 1,
+      "household_id": "h028",
+      "device_id": "d57",
+      "type": "order",
+      "order_id": "o57",
+      "market": "leather",
+      "amount": 54.84,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e58",
+      "revision": 1,
+      "household_id": "h029",
+      "device_id": "d58",
+      "type": "order",
+      "order_id": "o58",
+      "market": "textile",
+      "amount": 87.98,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e59",
+      "revision": 1,
+      "household_id": "h029",
+      "device_id": "d59",
+      "type": "order",
+      "order_id": "o59",
+      "market": "leather",
+      "amount": 125.09,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e60",
+      "revision": 1,
+      "household_id": "h030",
+      "device_id": "d60",
+      "type": "order",
+      "order_id": "o60",
+      "market": "textile",
+      "amount": 45.13,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e61",
+      "revision": 1,
+      "household_id": "h030",
+      "device_id": "d61",
+      "type": "order",
+      "order_id": "o61",
+      "market": "leather",
+      "amount": 27.39,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e62",
+      "revision": 1,
+      "household_id": "h031",
+      "device_id": "d62",
+      "type": "order",
+      "order_id": "o62",
+      "market": "textile",
+      "amount": 36.99,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e63",
+      "revision": 1,
+      "household_id": "h031",
+      "device_id": "d63",
+      "type": "order",
+      "order_id": "o63",
+      "market": "leather",
+      "amount": 109.72,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e64",
+      "revision": 1,
+      "household_id": "h032",
+      "device_id": "d64",
+      "type": "order",
+      "order_id": "o64",
+      "market": "textile",
+      "amount": 100.63,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e65",
+      "revision": 1,
+      "household_id": "h032",
+      "device_id": "d65",
+      "type": "order",
+      "order_id": "o65",
+      "market": "leather",
+      "amount": 103.47,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e66",
+      "revision": 1,
+      "household_id": "h033",
+      "device_id": "d66",
+      "type": "order",
+      "order_id": "o66",
+      "market": "textile",
+      "amount": 76.03,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e67",
+      "revision": 1,
+      "household_id": "h033",
+      "device_id": "d67",
+      "type": "order",
+      "order_id": "o67",
+      "market": "leather",
+      "amount": 111.31,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e68",
+      "revision": 1,
+      "household_id": "h034",
+      "device_id": "d68",
+      "type": "order",
+      "order_id": "o68",
+      "market": "textile",
+      "amount": 136.44,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e69",
+      "revision": 1,
+      "household_id": "h034",
+      "device_id": "d69",
+      "type": "order",
+      "order_id": "o69",
+      "market": "leather",
+      "amount": 79.27,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e70",
+      "revision": 1,
+      "household_id": "h035",
+      "device_id": "d70",
+      "type": "order",
+      "order_id": "o70",
+      "market": "textile",
+      "amount": 66.19,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e71",
+      "revision": 1,
+      "household_id": "h035",
+      "device_id": "d71",
+      "type": "order",
+      "order_id": "o71",
+      "market": "leather",
+      "amount": 150.0,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e72",
+      "revision": 1,
+      "household_id": "h036",
+      "device_id": "d72",
+      "type": "order",
+      "order_id": "o72",
+      "market": "textile",
+      "amount": 121.27,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e73",
+      "revision": 1,
+      "household_id": "h036",
+      "device_id": "d73",
+      "type": "order",
+      "order_id": "o73",
+      "market": "leather",
+      "amount": 81.42,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e74",
+      "revision": 1,
+      "household_id": "h037",
+      "device_id": "d74",
+      "type": "order",
+      "order_id": "o74",
+      "market": "textile",
+      "amount": 71.82,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e75",
+      "revision": 1,
+      "household_id": "h037",
+      "device_id": "d75",
+      "type": "order",
+      "order_id": "o75",
+      "market": "leather",
+      "amount": 125.35,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e76",
+      "revision": 1,
+      "household_id": "h038",
+      "device_id": "d76",
+      "type": "order",
+      "order_id": "o76",
+      "market": "textile",
+      "amount": 124.66,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e77",
+      "revision": 1,
+      "household_id": "h038",
+      "device_id": "d77",
+      "type": "order",
+      "order_id": "o77",
+      "market": "leather",
+      "amount": 100.77,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e78",
+      "revision": 1,
+      "household_id": "h039",
+      "device_id": "d78",
+      "type": "order",
+      "order_id": "o78",
+      "market": "textile",
+      "amount": 29.66,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e79",
+      "revision": 1,
+      "household_id": "h039",
+      "device_id": "d79",
+      "type": "order",
+      "order_id": "o79",
+      "market": "leather",
+      "amount": 122.57,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e80",
+      "revision": 1,
+      "household_id": "h040",
+      "device_id": "d80",
+      "type": "order",
+      "order_id": "o80",
+      "market": "textile",
+      "amount": 82.68,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e81",
+      "revision": 1,
+      "household_id": "h040",
+      "device_id": "d81",
+      "type": "order",
+      "order_id": "o81",
+      "market": "leather",
+      "amount": 66.19,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e82",
+      "revision": 1,
+      "household_id": "h041",
+      "device_id": "d82",
+      "type": "order",
+      "order_id": "o82",
+      "market": "textile",
+      "amount": 132.6,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e83",
+      "revision": 1,
+      "household_id": "h041",
+      "device_id": "d83",
+      "type": "order",
+      "order_id": "o83",
+      "market": "leather",
+      "amount": 91.69,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e84",
+      "revision": 1,
+      "household_id": "h042",
+      "device_id": "d84",
+      "type": "order",
+      "order_id": "o84",
+      "market": "textile",
+      "amount": 135.75,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e85",
+      "revision": 1,
+      "household_id": "h042",
+      "device_id": "d85",
+      "type": "order",
+      "order_id": "o85",
+      "market": "leather",
+      "amount": 138.43,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e86",
+      "revision": 1,
+      "household_id": "h043",
+      "device_id": "d86",
+      "type": "order",
+      "order_id": "o86",
+      "market": "textile",
+      "amount": 115.14,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e87",
+      "revision": 1,
+      "household_id": "h043",
+      "device_id": "d87",
+      "type": "order",
+      "order_id": "o87",
+      "market": "leather",
+      "amount": 38.81,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e88",
+      "revision": 1,
+      "household_id": "h044",
+      "device_id": "d88",
+      "type": "order",
+      "order_id": "o88",
+      "market": "textile",
+      "amount": 80.26,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e89",
+      "revision": 1,
+      "household_id": "h044",
+      "device_id": "d89",
+      "type": "order",
+      "order_id": "o89",
+      "market": "leather",
+      "amount": 111.65,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e90",
+      "revision": 1,
+      "household_id": "h045",
+      "device_id": "d90",
+      "type": "order",
+      "order_id": "o90",
+      "market": "textile",
+      "amount": 47.98,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e91",
+      "revision": 1,
+      "household_id": "h045",
+      "device_id": "d91",
+      "type": "order",
+      "order_id": "o91",
+      "market": "leather",
+      "amount": 91.47,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e92",
+      "revision": 1,
+      "household_id": "h046",
+      "device_id": "d92",
+      "type": "order",
+      "order_id": "o92",
+      "market": "textile",
+      "amount": 90.59,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e93",
+      "revision": 1,
+      "household_id": "h046",
+      "device_id": "d93",
+      "type": "order",
+      "order_id": "o93",
+      "market": "leather",
+      "amount": 94.16,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e94",
+      "revision": 1,
+      "household_id": "h047",
+      "device_id": "d94",
+      "type": "order",
+      "order_id": "o94",
+      "market": "textile",
+      "amount": 148.28,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e95",
+      "revision": 1,
+      "household_id": "h047",
+      "device_id": "d95",
+      "type": "order",
+      "order_id": "o95",
+      "market": "leather",
+      "amount": 135.17,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e96",
+      "revision": 1,
+      "household_id": "h048",
+      "device_id": "d96",
+      "type": "order",
+      "order_id": "o96",
+      "market": "textile",
+      "amount": 132.76,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e97",
+      "revision": 1,
+      "household_id": "h048",
+      "device_id": "d97",
+      "type": "order",
+      "order_id": "o97",
+      "market": "leather",
+      "amount": 124.77,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e98",
+      "revision": 1,
+      "household_id": "h049",
+      "device_id": "d98",
+      "type": "order",
+      "order_id": "o98",
+      "market": "textile",
+      "amount": 68.85,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e99",
+      "revision": 1,
+      "household_id": "h049",
+      "device_id": "d99",
+      "type": "order",
+      "order_id": "o99",
+      "market": "leather",
+      "amount": 125.85,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e100",
+      "revision": 1,
+      "household_id": "h050",
+      "device_id": "d100",
+      "type": "order",
+      "order_id": "o100",
+      "market": "textile",
+      "amount": 40.52,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e101",
+      "revision": 1,
+      "household_id": "h050",
+      "device_id": "d101",
+      "type": "order",
+      "order_id": "o101",
+      "market": "leather",
+      "amount": 56.12,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e102",
+      "revision": 1,
+      "household_id": "h051",
+      "device_id": "d102",
+      "type": "order",
+      "order_id": "o102",
+      "market": "textile",
+      "amount": 50.82,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e103",
+      "revision": 1,
+      "household_id": "h051",
+      "device_id": "d103",
+      "type": "order",
+      "order_id": "o103",
+      "market": "leather",
+      "amount": 21.17,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e104",
+      "revision": 1,
+      "household_id": "h052",
+      "device_id": "d104",
+      "type": "order",
+      "order_id": "o104",
+      "market": "textile",
+      "amount": 62.45,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e105",
+      "revision": 1,
+      "household_id": "h052",
+      "device_id": "d105",
+      "type": "order",
+      "order_id": "o105",
+      "market": "leather",
+      "amount": 29.03,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e106",
+      "revision": 1,
+      "household_id": "h053",
+      "device_id": "d106",
+      "type": "order",
+      "order_id": "o106",
+      "market": "textile",
+      "amount": 103.57,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e107",
+      "revision": 1,
+      "household_id": "h053",
+      "device_id": "d107",
+      "type": "order",
+      "order_id": "o107",
+      "market": "leather",
+      "amount": 111.79,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e108",
+      "revision": 1,
+      "household_id": "h054",
+      "device_id": "d108",
+      "type": "order",
+      "order_id": "o108",
+      "market": "textile",
+      "amount": 55.82,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e109",
+      "revision": 1,
+      "household_id": "h054",
+      "device_id": "d109",
+      "type": "order",
+      "order_id": "o109",
+      "market": "leather",
+      "amount": 55.83,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e110",
+      "revision": 1,
+      "household_id": "h055",
+      "device_id": "d110",
+      "type": "order",
+      "order_id": "o110",
+      "market": "textile",
+      "amount": 128.65,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e111",
+      "revision": 1,
+      "household_id": "h055",
+      "device_id": "d111",
+      "type": "order",
+      "order_id": "o111",
+      "market": "leather",
+      "amount": 31.43,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e112",
+      "revision": 1,
+      "household_id": "h056",
+      "device_id": "d112",
+      "type": "order",
+      "order_id": "o112",
+      "market": "textile",
+      "amount": 135.15,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e113",
+      "revision": 1,
+      "household_id": "h056",
+      "device_id": "d113",
+      "type": "order",
+      "order_id": "o113",
+      "market": "leather",
+      "amount": 127.71,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e114",
+      "revision": 1,
+      "household_id": "h057",
+      "device_id": "d114",
+      "type": "order",
+      "order_id": "o114",
+      "market": "textile",
+      "amount": 114.51,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e115",
+      "revision": 1,
+      "household_id": "h057",
+      "device_id": "d115",
+      "type": "order",
+      "order_id": "o115",
+      "market": "leather",
+      "amount": 90.04,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e116",
+      "revision": 1,
+      "household_id": "h058",
+      "device_id": "d116",
+      "type": "order",
+      "order_id": "o116",
+      "market": "textile",
+      "amount": 46.8,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e117",
+      "revision": 1,
+      "household_id": "h058",
+      "device_id": "d117",
+      "type": "order",
+      "order_id": "o117",
+      "market": "leather",
+      "amount": 28.2,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e118",
+      "revision": 1,
+      "household_id": "h059",
+      "device_id": "d118",
+      "type": "order",
+      "order_id": "o118",
+      "market": "textile",
+      "amount": 132.02,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e119",
+      "revision": 1,
+      "household_id": "h059",
+      "device_id": "d119",
+      "type": "order",
+      "order_id": "o119",
+      "market": "leather",
+      "amount": 142.82,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e120",
+      "revision": 1,
+      "household_id": "h060",
+      "device_id": "d120",
+      "type": "order",
+      "order_id": "o120",
+      "market": "textile",
+      "amount": 135.52,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e121",
+      "revision": 1,
+      "household_id": "h060",
+      "device_id": "d121",
+      "type": "order",
+      "order_id": "o121",
+      "market": "leather",
+      "amount": 53.17,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e122",
+      "revision": 1,
+      "household_id": "h061",
+      "device_id": "d122",
+      "type": "order",
+      "order_id": "o122",
+      "market": "textile",
+      "amount": 135.42,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e123",
+      "revision": 1,
+      "household_id": "h061",
+      "device_id": "d123",
+      "type": "order",
+      "order_id": "o123",
+      "market": "leather",
+      "amount": 145.3,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e124",
+      "revision": 1,
+      "household_id": "h062",
+      "device_id": "d124",
+      "type": "order",
+      "order_id": "o124",
+      "market": "textile",
+      "amount": 63.12,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e125",
+      "revision": 1,
+      "household_id": "h062",
+      "device_id": "d125",
+      "type": "order",
+      "order_id": "o125",
+      "market": "leather",
+      "amount": 67.75,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e126",
+      "revision": 1,
+      "household_id": "h063",
+      "device_id": "d126",
+      "type": "order",
+      "order_id": "o126",
+      "market": "textile",
+      "amount": 140.39,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e127",
+      "revision": 1,
+      "household_id": "h063",
+      "device_id": "d127",
+      "type": "order",
+      "order_id": "o127",
+      "market": "leather",
+      "amount": 112.84,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e128",
+      "revision": 1,
+      "household_id": "h064",
+      "device_id": "d128",
+      "type": "order",
+      "order_id": "o128",
+      "market": "textile",
+      "amount": 135.86,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e129",
+      "revision": 1,
+      "household_id": "h064",
+      "device_id": "d129",
+      "type": "order",
+      "order_id": "o129",
+      "market": "leather",
+      "amount": 134.05,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e130",
+      "revision": 1,
+      "household_id": "h065",
+      "device_id": "d130",
+      "type": "order",
+      "order_id": "o130",
+      "market": "textile",
+      "amount": 127.37,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e131",
+      "revision": 1,
+      "household_id": "h065",
+      "device_id": "d131",
+      "type": "order",
+      "order_id": "o131",
+      "market": "leather",
+      "amount": 32.59,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e132",
+      "revision": 1,
+      "household_id": "h066",
+      "device_id": "d132",
+      "type": "order",
+      "order_id": "o132",
+      "market": "textile",
+      "amount": 44.0,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e133",
+      "revision": 1,
+      "household_id": "h066",
+      "device_id": "d133",
+      "type": "order",
+      "order_id": "o133",
+      "market": "leather",
+      "amount": 66.43,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e134",
+      "revision": 1,
+      "household_id": "h067",
+      "device_id": "d134",
+      "type": "order",
+      "order_id": "o134",
+      "market": "textile",
+      "amount": 135.91,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e135",
+      "revision": 1,
+      "household_id": "h067",
+      "device_id": "d135",
+      "type": "order",
+      "order_id": "o135",
+      "market": "leather",
+      "amount": 47.02,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e136",
+      "revision": 1,
+      "household_id": "h068",
+      "device_id": "d136",
+      "type": "order",
+      "order_id": "o136",
+      "market": "textile",
+      "amount": 139.31,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e137",
+      "revision": 1,
+      "household_id": "h068",
+      "device_id": "d137",
+      "type": "order",
+      "order_id": "o137",
+      "market": "leather",
+      "amount": 86.06,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e138",
+      "revision": 1,
+      "household_id": "h069",
+      "device_id": "d138",
+      "type": "order",
+      "order_id": "o138",
+      "market": "textile",
+      "amount": 95.42,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e139",
+      "revision": 1,
+      "household_id": "h069",
+      "device_id": "d139",
+      "type": "order",
+      "order_id": "o139",
+      "market": "leather",
+      "amount": 73.86,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e140",
+      "revision": 1,
+      "household_id": "h070",
+      "device_id": "d140",
+      "type": "order",
+      "order_id": "o140",
+      "market": "textile",
+      "amount": 96.36,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e141",
+      "revision": 1,
+      "household_id": "h070",
+      "device_id": "d141",
+      "type": "order",
+      "order_id": "o141",
+      "market": "leather",
+      "amount": 126.6,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e142",
+      "revision": 1,
+      "household_id": "h071",
+      "device_id": "d142",
+      "type": "order",
+      "order_id": "o142",
+      "market": "textile",
+      "amount": 73.58,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e143",
+      "revision": 1,
+      "household_id": "h071",
+      "device_id": "d143",
+      "type": "order",
+      "order_id": "o143",
+      "market": "leather",
+      "amount": 86.06,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e144",
+      "revision": 1,
+      "household_id": "h072",
+      "device_id": "d144",
+      "type": "order",
+      "order_id": "o144",
+      "market": "textile",
+      "amount": 23.09,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e145",
+      "revision": 1,
+      "household_id": "h072",
+      "device_id": "d145",
+      "type": "order",
+      "order_id": "o145",
+      "market": "leather",
+      "amount": 71.19,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e146",
+      "revision": 1,
+      "household_id": "h073",
+      "device_id": "d146",
+      "type": "order",
+      "order_id": "o146",
+      "market": "textile",
+      "amount": 148.99,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e147",
+      "revision": 1,
+      "household_id": "h073",
+      "device_id": "d147",
+      "type": "order",
+      "order_id": "o147",
+      "market": "leather",
+      "amount": 124.55,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "e148",
+      "revision": 1,
+      "household_id": "h074",
+      "device_id": "d148",
+      "type": "order",
+      "order_id": "o148",
+      "market": "textile",
+      "amount": 31.59,
+      "occurred_at": "2026-07-06",
+      "known_at": "2026-07-07"
+    },
+    {
+      "event_id": "e149",
+      "revision": 1,
+      "household_id": "h074",
+      "device_id": "d149",
+      "type": "order",
+      "order_id": "o149",
+      "market": "leather",
+      "amount": 84.91,
+      "occurred_at": "2026-07-07",
+      "known_at": "2026-07-08"
+    },
+    {
+      "event_id": "e150",
+      "revision": 1,
+      "household_id": "h075",
+      "device_id": "d150",
+      "type": "order",
+      "order_id": "o150",
+      "market": "textile",
+      "amount": 52.37,
+      "occurred_at": "2026-07-08",
+      "known_at": "2026-07-09"
+    },
+    {
+      "event_id": "e151",
+      "revision": 1,
+      "household_id": "h075",
+      "device_id": "d151",
+      "type": "order",
+      "order_id": "o151",
+      "market": "leather",
+      "amount": 23.11,
+      "occurred_at": "2026-07-09",
+      "known_at": "2026-07-10"
+    },
+    {
+      "event_id": "e152",
+      "revision": 1,
+      "household_id": "h076",
+      "device_id": "d152",
+      "type": "order",
+      "order_id": "o152",
+      "market": "textile",
+      "amount": 134.5,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-11"
+    },
+    {
+      "event_id": "e153",
+      "revision": 1,
+      "household_id": "h076",
+      "device_id": "d153",
+      "type": "order",
+      "order_id": "o153",
+      "market": "leather",
+      "amount": 121.54,
+      "occurred_at": "2026-07-11",
+      "known_at": "2026-07-12"
+    },
+    {
+      "event_id": "e154",
+      "revision": 1,
+      "household_id": "h077",
+      "device_id": "d154",
+      "type": "order",
+      "order_id": "o154",
+      "market": "textile",
+      "amount": 122.58,
+      "occurred_at": "2026-07-12",
+      "known_at": "2026-07-13"
+    },
+    {
+      "event_id": "e155",
+      "revision": 1,
+      "household_id": "h077",
+      "device_id": "d155",
+      "type": "order",
+      "order_id": "o155",
+      "market": "leather",
+      "amount": 73.16,
+      "occurred_at": "2026-07-13",
+      "known_at": "2026-07-14"
+    },
+    {
+      "event_id": "e156",
+      "revision": 1,
+      "household_id": "h078",
+      "device_id": "d156",
+      "type": "order",
+      "order_id": "o156",
+      "market": "textile",
+      "amount": 120.1,
+      "occurred_at": "2026-07-02",
+      "known_at": "2026-07-03"
+    },
+    {
+      "event_id": "e157",
+      "revision": 1,
+      "household_id": "h078",
+      "device_id": "d157",
+      "type": "order",
+      "order_id": "o157",
+      "market": "leather",
+      "amount": 121.46,
+      "occurred_at": "2026-07-03",
+      "known_at": "2026-07-04"
+    },
+    {
+      "event_id": "e158",
+      "revision": 1,
+      "household_id": "h079",
+      "device_id": "d158",
+      "type": "order",
+      "order_id": "o158",
+      "market": "textile",
+      "amount": 83.36,
+      "occurred_at": "2026-07-04",
+      "known_at": "2026-07-05"
+    },
+    {
+      "event_id": "e159",
+      "revision": 1,
+      "household_id": "h079",
+      "device_id": "d159",
+      "type": "order",
+      "order_id": "o159",
+      "market": "leather",
+      "amount": 65.81,
+      "occurred_at": "2026-07-05",
+      "known_at": "2026-07-06"
+    },
+    {
+      "event_id": "refund-late",
+      "revision": 1,
+      "device_id": "d3",
+      "type": "refund",
+      "order_id": "o3",
+      "amount": 20,
+      "occurred_at": "2026-07-10",
+      "known_at": "2026-07-30"
+    },
+    {
+      "event_id": "exposure-cross",
+      "revision": 1,
+      "device_id": "d0",
+      "type": "exposure",
+      "campaign_arm": "treatment",
+      "occurred_at": "2026-07-01",
+      "known_at": "2026-07-01"
+    }
+  ]
+}

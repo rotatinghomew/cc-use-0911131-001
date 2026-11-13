@@ -1,0 +1,87 @@
+{
+  "case_id": "twin_market_flow-demo",
+  "merchant_id": "merchant-demo",
+  "market": "combined",
+  "region": "haining",
+  "status": "active",
+  "source_system": "local-synthetic-fixture",
+  "event_date": "2026-11-12",
+  "amount": 168.5,
+  "count": 8,
+  "total": 16,
+  "metrics": {
+    "conversion": 0.52,
+    "traffic": 225,
+    "repeat_rate": 0.43,
+    "delay_hours": 2
+  },
+  "attributes": {
+    "brand_level": "independent",
+    "risk_score": 82,
+    "channel": "hybrid",
+    "originality": 0.91,
+    "capacity": 30,
+    "cost": 14.5
+  },
+  "tags": [
+    "synthetic",
+    "offline",
+    "客流会话",
+    "跨市场旅程"
+  ],
+  "records": [
+    {
+      "id": "r1",
+      "issue": "tool-adoption",
+      "value": 80,
+      "amount": 25,
+      "status": "open",
+      "group": "leather"
+    },
+    {
+      "id": "r2",
+      "issue": "buyer-trust",
+      "value": 96,
+      "amount": 32,
+      "status": "closed",
+      "group": "textile"
+    },
+    {
+      "id": "r3",
+      "issue": "brand-growth",
+      "value": 104,
+      "amount": 35,
+      "status": "open",
+      "group": "joint"
+    }
+  ],
+  "timeline": [
+    {
+      "at": "2026-11-09",
+      "start": 1,
+      "end": 3
+    },
+    {
+      "at": "2026-11-10",
+      "start": 4,
+      "end": 8
+    },
+    {
+      "at": "2026-11-11",
+      "start": 9,
+      "end": 12
+    }
+  ],
+  "links": [
+    {
+      "from": "leather",
+      "to": "textile",
+      "weight": 3
+    },
+    {
+      "from": "textile",
+      "to": "buyer",
+      "weight": 4
+    }
+  ]
+}
